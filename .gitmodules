@@ -1,0 +1,3 @@
+[submodule "coursera_ml"]
+	path = coursera_ml
+	url = https://szdbl@github.com/szdbl/coursera_ds.git
